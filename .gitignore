@@ -1,3 +1,6 @@
+package-lock.json
+conf.json
+ca.pem
 # Logs
 logs
 *.log
